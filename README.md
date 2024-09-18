@@ -74,13 +74,18 @@ Then install the project dependencies with pip install -r requirements.txt
 
 Now you can run the project with this command python manage.py runserver
 
-Contributors
-Backend Development
-Abhishek Jaiswal (GitHub: Abhijaiswal2522002)
-Responsible for developing the backend, managing APIs, databases, and server logic.
-Frontend Development
-Shalini (GitHub: Shalini0309)
-Contributed to the design and development of the user interface, ensuring a responsive and dynamic layout.
+## Contributors
 
-Abhishek Kharwar (GitHub: abhishekkharwar0007)
-Assisted in creating a dynamic and visually appealing front-end for the application, ensuring smooth user interaction.
+### Backend Development
+- **Abhishek Jaiswal**  
+  GitHub: [Abhijaiswal2522002](https://github.com/Abhijaiswal2522002)  
+  Responsible for backend development, API integration, and database management.
+
+### Frontend Development
+- **Shalini**  
+  GitHub: [Shalini0309](https://github.com/Shalini0309)  
+  Contributed to front-end UI/UX design and development.
+
+- **Abhishek Kharwar**  
+  GitHub: [abhishekkharwar0007](https://github.com/abhishekkharwar0007)  
+  Assisted in dynamic and interactive frontend development.
